@@ -12,6 +12,10 @@ public class welcomejava {
 		System.out.println("testing poll scm");
 		System.out.println("what happened");
 		System.out.println("Testing webhook");
+		System.out.println("top deals today");
+		
+		
 	}
+	
 
 }
