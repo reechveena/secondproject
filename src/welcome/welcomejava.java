@@ -13,7 +13,7 @@ public class welcomejava {
 		System.out.println("what happened");
 		System.out.println("Testing webhook");
 		System.out.println("top deals today");
-		
+		System.out.println("commit poll scm code");
 		
 	}
 	
