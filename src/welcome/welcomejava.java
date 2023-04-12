@@ -14,6 +14,7 @@ public class welcomejava {
 		System.out.println("Testing webhook");
 		System.out.println("top deals today");
 		System.out.println("commit poll scm code");
+		System.out.println("again created under new jenkinsserver");
 		
 	}
 	
